@@ -28,9 +28,10 @@ public class InstaBot {
 
     private static void login(WebDriver browser, String username, String password) {
 
-        //TODO TESTING DO NOT USE IN REAL CREDENTIALS.
+        //TODO TESTING DO NOT USE REAL CREDENTIALS.
         username = "puppiesRlords@protonmail.com";
-        password = "Kabuasa1997";
+        password = "xxxxxx";
+        //Must input credentials! will come when instagram accounts are up and active
         /*TODO MAJOR SECURITY RISK*/
 
         browser.findElement(By.name("username")).sendKeys(username);
