@@ -1,2 +1,6 @@
 public class File {
+  
+  //PARSE THE STATEMENT FILE 
+  
+  //PARSE THE HASHTAGE FILE AND STORE IN AN ARRAY! 
 }
